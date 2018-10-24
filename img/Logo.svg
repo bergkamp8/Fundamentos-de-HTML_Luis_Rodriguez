@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#FF0000" height="111" id="svg_1" stroke="#000000" stroke-width="5" width="163" x="25.5" y="26.5"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="106.5" xml:space="preserve" y="90.5">LERP</text>
+ </g>
+</svg>
